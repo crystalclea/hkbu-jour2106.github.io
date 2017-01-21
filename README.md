@@ -3,8 +3,8 @@
 ## List of students
 
 * Pili Hu: http://hupilidemo.github.io/
-* Student 1
-* Pili Hu: http://hupilidemo.github.io/
+* Student 1 https://github.com/crystalclea
+* Student 2
 * Student 3
 * Student 4
 * Student 5
