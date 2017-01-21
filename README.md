@@ -31,5 +31,5 @@
 * Student 26
 * Daniel Ma: http://danielma518.github.io/
 * Student 28
-* Student 29
+* Crystal Tai: http://crystalclea.github.io
 * Student 30
